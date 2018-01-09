@@ -5,6 +5,6 @@ In this project you are given a web-based application that reads RSS feeds. The 
 
 ## Steps required to successfully run 
 
-To see project download files into a zip opem index.html in the browser of your choice. When the page loads test results should be displayed at the bottom of the page.
+To see project download files into a zip and open index.html in the browser of your choice. When the page loads test results should be displayed at the bottom of the page.
 
-Test Run:
+
